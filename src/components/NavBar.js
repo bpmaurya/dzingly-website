@@ -31,7 +31,7 @@ const NavBar = () => {
                 <i className="menu-icons-style search search-close search-btn fa fa-search"></i>
                 <div className="search-open">
                   <div className="search-inner-section">
-                    <label>Type and Press "enter" to Search</label>
+                    <label>Type and Press   "enter" to Search</label>
                     <input
                       type="text"
                       id="BtnSearch"
